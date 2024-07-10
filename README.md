@@ -1,2 +1,3 @@
 # Js-Guess-the-number
-Using html css and js
+Using html css 
+adding js 
