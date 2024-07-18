@@ -25,4 +25,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/guess-the-number.git
+   git clone (https://github.com/Skumar1690/Js-Guess-the-number/tree/main/Guessnumber)
